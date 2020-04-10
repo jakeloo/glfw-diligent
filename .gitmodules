@@ -1,0 +1,6 @@
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/glfw/glfw
+[submodule "DiligentCore"]
+	path = DiligentCore
+	url = https://github.com/DiligentGraphics/DiligentCore

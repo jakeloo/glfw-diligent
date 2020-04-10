@@ -1,0 +1,15 @@
+# GLFW with DiligentEngine
+Sample project showcase GLFW (window) with DiligentEngine (rendering).
+In this sample, D3D12 is used on Windows and OpenGL on MacOS. The render device type can be changed by `m_DeviceType` variable.
+
+### Build
+1. `git submodule update --init --recursive`
+2. Configure the project:
+  * `cmake -B build`
+3. Build the project:
+  * `cmake --build build`
+
+### License
+* GLFW: [LICENSE](https://www.glfw.org/license.html)
+* DiligentCore: [LICENSE](https://github.com/DiligentGraphics/DiligentCore#license)
+* DiligentSamples: [LICENSE](https://github.com/DiligentGraphics/DiligentSamples#license)
