@@ -1,5 +1,5 @@
 # GLFW with DiligentEngine
-Sample project showcase GLFW (window) with DiligentEngine (rendering).
+Sample project showcase [GLFW](https://github.com/glfw/glfw) (window) with [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) (rendering).
 In this sample, D3D12 is used on Windows and OpenGL on MacOS. The render device type can be changed by `m_DeviceType` variable in `main.cpp`.
 
 ### Build
